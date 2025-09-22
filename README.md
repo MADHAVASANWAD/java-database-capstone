@@ -1,1 +1,1 @@
-# Clinic-Management-System
+# java-database-capstone
